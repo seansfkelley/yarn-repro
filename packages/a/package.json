@@ -1,0 +1,6 @@
+{
+  "name": "a",
+  "scripts": {
+    "start": "exit 0"
+  }
+}

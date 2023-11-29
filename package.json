@@ -1,4 +1,9 @@
 {
   "name": "yarn-repro",
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
   "packageManager": "yarn@4.0.2"
 }
